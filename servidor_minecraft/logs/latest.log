@@ -1,0 +1,40 @@
+[21:37:47] [main/INFO]: Loading Minecraft 1.21.1 with Fabric Loader 0.18.2
+[21:37:47] [main/INFO]: Loading 4 mods:
+	- fabricloader 0.18.2
+	   \-- mixinextras 0.5.0
+	- java 21
+	- minecraft 1.21.1
+[21:37:47] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/server-arrecho/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:37:52] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:37:53] [main/INFO]: Loaded 1290 recipes
+[21:37:54] [main/INFO]: Loaded 1399 advancements
+[21:37:54] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[21:37:54] [Server thread/INFO]: Loading properties
+[21:37:54] [Server thread/INFO]: Default game type: SURVIVAL
+[21:37:54] [Server thread/INFO]: Generating keypair
+[21:37:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:37:54] [Server thread/INFO]: Using epoll channel type
+[21:37:54] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:37:54] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:37:54] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:37:54] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:37:54] [Server thread/INFO]: Preparing level "world"
+[21:37:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:37:57] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[21:37:57] [Server thread/INFO]: Time elapsed: 521 ms
+[21:37:57] [Server thread/INFO]: Done (3.093s)! For help, type "help"
+[21:38:28] [Server thread/INFO]: tobs_z[/10.34.75.219:55591] logged in with entity id 19 at (-42.5, 82.0, 69.5)
+[21:38:28] [Server thread/INFO]: tobs_z joined the game
+[21:38:29] [Server thread/INFO]: tobs_z lost connection: Disconnected
+[21:38:29] [Server thread/INFO]: tobs_z left the game
+[21:45:03] [Server thread/INFO]: Stopping the server
+[21:45:03] [Server thread/INFO]: Stopping server
+[21:45:03] [Server thread/INFO]: Saving players
+[21:45:03] [Server thread/INFO]: Saving worlds
+[21:45:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:45:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:45:04] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:45:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:45:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:45:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:45:04] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
